@@ -19,25 +19,6 @@ shopflow-recommendations-widget/
     └── .gitkeep
 ```
 
-## Getting Started
-
-This project was bootstrapped for the GitHub Flow Lab collaboration exercise.
-
-## Team Collaboration
-
-This project is designed for collaborative development using the GitHub Flow methodology:
-
-1. **Person A:** Project maintainer and first reviewer
-2. **Person B:** Contributor and second reviewer
-
-## Contributing
-
-Please follow the GitHub Flow process:
-1. Create a feature branch from `main`
-2. Make your changes
-3. Create a pull request
-4. Wait for review and approval
-5. Merge to `main`
 
 ## License
 
