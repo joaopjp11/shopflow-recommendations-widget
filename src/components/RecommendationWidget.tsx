@@ -10,7 +10,7 @@ import React from 'react';
    }) => {
      return (
        <div className="recommendation-widget">
-         <h3>You Might Also Like</h3>
+         <h3>You Might Might Also Like</h3>
          {/* Component implementation will go here */}
        </div>
      );
