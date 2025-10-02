@@ -1,4 +1,4 @@
- import { useState, useEffect } from 'react';
+   import { useState, useEffect } from 'react';
    import { Product, RecommendationResponse } from '../types/recommendations';
 
    export const useRecommendations = (
